@@ -1,0 +1,6 @@
+ekctl_env1/
+__pycache__/
+*.pyc
+.env
+.claude/
+*.bak
